@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f6b94843eb5f76446b74a7552985457d
+labels:
+- Arduino
+- Serial
+- Uduino
+- Unity
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: uduino
+  assetBundleVariant: 
